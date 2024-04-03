@@ -1,0 +1,21 @@
+.MuiToolbar-regular {
+	background-color: #dbe2ef;
+}
+
+.MuiTableHead-root {
+	background-color: #dbe2ef;
+	font-weight: bold;
+	border-top: 2px solid #f9f7f7;
+}
+
+.MuiButtonBase-root {
+	font-size: 1.2rem;
+}
+
+.MuiTableBody-root > :nth-child(even) {
+	background-color: #dbe2ef;
+}
+
+.MuiTableBody-root > :nth-child(odd) {
+	background-color: #f9f7f7;
+}
